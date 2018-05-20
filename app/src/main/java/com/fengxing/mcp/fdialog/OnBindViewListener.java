@@ -1,0 +1,1 @@
+package com.fengxing.mcp.fdialog;/** * Created by fengxing on 2018/5/18. */public interface OnBindViewListener {    void bindView(BindViewHolder viewHolder);}

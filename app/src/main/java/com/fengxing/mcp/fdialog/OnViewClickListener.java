@@ -1,0 +1,1 @@
+package com.fengxing.mcp.fdialog;import android.app.Dialog;import android.support.v7.widget.RecyclerView;import android.view.View;/** * Created by fengxing on 2018/5/18. */public interface OnViewClickListener {    void onViewClick(View view, BindViewHolder holder, FDialog dialog);}
